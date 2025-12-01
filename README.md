@@ -1,11 +1,6 @@
 # Sebastián José Rivera Leal 🇵🇷🏝🏖
 
 **`De Puerto Rico pal 🌎 (Developer/Artist/Producer)`**
-
-I'm an current Computer Science Major at the University of Alabama In Huntsville and am on my final semester and expect to graduate in Fall 2022. I enjoy the hobby of digital art, music production with the use of FL Studio and also art generation with artificial intelligence. 
-Contact Info:
-sjrl2000@gmail.com, Discord Sebi#4264
-
    <p align="left">
       <a href="https://github.com/sjrl2000?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sjrl2000?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
