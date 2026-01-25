@@ -1,4 +1,4 @@
-# Sebastián José Rivera Leal 🇵🇷🏝🏖
+# Seba 🇵🇷🏝🏖
 
 **`De Puerto Rico pal 🌎 (Developer/Artist/Producer)`**
    <p align="left">
